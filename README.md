@@ -67,5 +67,5 @@ price-watcher/
 
 ## Authors
 
-- Your Name
-- Your Friend's Name
+- DRAG
+- AJOUNOX
